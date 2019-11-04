@@ -1,0 +1,12 @@
+C:\Users\hhbil\Desktop\Modbus\Modbus\bin\Debug\Modbus.exe.manifest
+C:\Users\hhbil\Desktop\Modbus\Modbus\bin\Debug\Modbus.application
+C:\Users\hhbil\Desktop\Modbus\Modbus\bin\Debug\Modbus.exe
+C:\Users\hhbil\Desktop\Modbus\Modbus\bin\Debug\Modbus.pdb
+C:\Users\hhbil\Desktop\Modbus\Modbus\obj\Debug\Modbus.Form1.resources
+C:\Users\hhbil\Desktop\Modbus\Modbus\obj\Debug\Modbus.Properties.Resources.resources
+C:\Users\hhbil\Desktop\Modbus\Modbus\obj\Debug\Modbus.csproj.GenerateResource.cache
+C:\Users\hhbil\Desktop\Modbus\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\hhbil\Desktop\Modbus\Modbus\obj\Debug\Modbus.exe.manifest
+C:\Users\hhbil\Desktop\Modbus\Modbus\obj\Debug\Modbus.application
+C:\Users\hhbil\Desktop\Modbus\Modbus\obj\Debug\Modbus.exe
+C:\Users\hhbil\Desktop\Modbus\Modbus\obj\Debug\Modbus.pdb
